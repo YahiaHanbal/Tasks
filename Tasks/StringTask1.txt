@@ -1,0 +1,88 @@
+1-
+Given a string, the task is to reverse the order of the words in the given string. 
+
+Examples:
+
+Input: s = “geeks quiz practice code” 
+Output: s = “code practice quiz geeks”
+
+Input: s = “i love programming very much” 
+Output: s = “much very programming love i” 
+
+==================================================
+2-
+Given two strings. The task is to check whether the given strings are anagrams of each other or not. 
+
+An anagram of a string is another string that contains the same characters, only the order of characters can be different. For example, “abcd” and “dabc” are an anagram of each other.
+
+Examples:
+
+Input: str1 = “listen”  str2 = “silent”
+Output: “Anagram”
+Explanation: All characters of “listen” and “silent” are the same
+nput: str1 = “gram”  str2 = “arm”
+Output: “Not Anagram”
+
+=================================================
+3-
+Given two strings of lowercase alphabets and a value k, the task is to find if two strings are K-anagrams of each other or not.
+Two strings are called k-anagrams if following two conditions are true. 
+
+Both have same number of characters.
+Two strings can become anagram by changing at most k characters in a string.
+Examples :  
+
+Input:  str1 = "anagram" , str2 = "grammar" , k = 3
+Output:  Yes
+Explanation: We can update maximum 3 values and 
+it can be done in changing only 'r' to 'n' 
+and 'm' to 'a' in str2.
+Input:  str1 = "geeks", str2 = "eggkf", k = 1
+Output:  No
+Explanation: We can update or modify only 1 
+value but there is a need of modifying 2 characters. 
+
+=========================================================
+4-
+Check if a string can be obtained by rotating another string 2 places
+
+Given two strings, the task is to find if a string can be obtained by rotating another string by two places. 
+
+Examples: 
+
+Input: string1 = “amazon”, string2 = “azonam” 
+Output: Yes 
+Explanation: Rotating string1 by 2 places in anti-clockwise gives the string2.
+
+Input: string1 = “amazon”, string2 = “onamaz” 
+Output: Yes 
+Explanation: Rotating string1 by 2 places in clockwise gives the string2.
+
+Illustration:
+
+str1 = “amazon”
+str2 = “azonam”
+
+Initialise: clock_rot = “”, anticlock_rot = “”
+
+str1 after 2 places clockwise rotation:
+clock_rot = “onamaz”
+
+str1 after 2 places anti-clockwise rotation:
+anticlock_rot = “azonam”
+
+Therefore, anticlock_rot and str2 are same.
+
+Hence, str2 can be achieved from str1
+
+=============================================================
+
+5-
+Program to validate an IP address
+Write a program to Validate an IPv4 Address. 
+According to Wikipedia, IPv4 addresses are canonically represented in
+ dot-decimal notation, which consists of four decimal numbers,
+ each ranging from 0 to 255, separated by dots, e.g., 172.16.254.1
+
+Following are steps to check whether a given string is a valid IPv4 address or not:
+

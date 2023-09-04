@@ -1,0 +1,19 @@
+1-
+write a function takes 3 numbers as parameter, and returns the largest one 
+among them... write a program to test it
+
+===============================================================
+
+2- 
+C# Program to take single Employee's information, and display them. (Use Struct)
+
+
+===================================================================
+
+3. C# Program have a function changes the position of the first point of a given line struct "each line have 2 points", 
+then inside main displays the new coordinates along with line Length
+   	function Signture should be 
+no return type -->void
+Take 3 Paramters Line struct , new x value as int and new y value as int
+
+================================================================

@@ -1,0 +1,58 @@
+1-
+C# Program that takes an array of integers and pass that array to a function 
+to print array values after multiplying them to 10. 
+
+========================================
+
+2-
+C# Program that asks the user for number of Lines he want "line is a class, each line have 2 points", 
+	then displays length of each one
+
+
+===========================================================
+
+3- C# Program to find the maximum value of array elements. (Max Array)
+
+
+=============================================================
+
+4- C# Program to add two matrix and put the result in a third one, 
+then print the result.
+
+=========================================================
+5-
+Write a program to reverse an array
+
+Given an array  the task is to reverse the array
+Examples : 
+ 
+
+Input  : arr[] = {1, 2, 3}
+Output : arr[] = {3, 2, 1}
+
+Input :  arr[] = {4, 5, 1, 2}
+Output : arr[] = {2, 1, 5, 4}
+
+====================================================
+6-
+C# program to sort an array in ascending order
+
+Original array: 
+0 23 14 12 9 
+
+Sorted array in Ascending order: 
+0 9 12 14 23 
+
+================================================
+7-
+Find the Missing Number
+Input: arr[] = {1, 2, 4, 6, 3, 7, 8}, N = 8
+Output: 5
+Explanation: The missing number between 1 to 8 is 5
+
+
+
+
+
+
+		

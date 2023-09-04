@@ -1,0 +1,7 @@
+E:\Coding\hacker_rank\c#_tasks\Array\first_task\first_task\bin\Debug\first_task.exe.config
+E:\Coding\hacker_rank\c#_tasks\Array\first_task\first_task\bin\Debug\first_task.exe
+E:\Coding\hacker_rank\c#_tasks\Array\first_task\first_task\bin\Debug\first_task.pdb
+E:\Coding\hacker_rank\c#_tasks\Array\first_task\first_task\obj\Debug\first_task.csproj.AssemblyReference.cache
+E:\Coding\hacker_rank\c#_tasks\Array\first_task\first_task\obj\Debug\first_task.csproj.CoreCompileInputs.cache
+E:\Coding\hacker_rank\c#_tasks\Array\first_task\first_task\obj\Debug\first_task.exe
+E:\Coding\hacker_rank\c#_tasks\Array\first_task\first_task\obj\Debug\first_task.pdb
