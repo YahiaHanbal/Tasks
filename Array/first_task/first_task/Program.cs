@@ -8,6 +8,10 @@ namespace first_task
 {
     internal class Program
     {
+        public static void func()
+        {
+            Console.WriteLine("Hello");
+        }
       
         static void Main(string[] args)
         {
@@ -16,6 +20,9 @@ namespace first_task
             for (int i = 0; i < nums.Length; i++) {
                 Console.WriteLine(10 * nums[i]);
             }
+            func();
+        }
+
         }
     }
-}
+

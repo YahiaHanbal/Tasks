@@ -1,0 +1,7 @@
+E:\Coding\hacker_rank\c#_tasks\Array\task_2\task_2\bin\Debug\task_2.exe.config
+E:\Coding\hacker_rank\c#_tasks\Array\task_2\task_2\bin\Debug\task_2.exe
+E:\Coding\hacker_rank\c#_tasks\Array\task_2\task_2\bin\Debug\task_2.pdb
+E:\Coding\hacker_rank\c#_tasks\Array\task_2\task_2\obj\Debug\task_2.csproj.AssemblyReference.cache
+E:\Coding\hacker_rank\c#_tasks\Array\task_2\task_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+E:\Coding\hacker_rank\c#_tasks\Array\task_2\task_2\obj\Debug\task_2.exe
+E:\Coding\hacker_rank\c#_tasks\Array\task_2\task_2\obj\Debug\task_2.pdb
